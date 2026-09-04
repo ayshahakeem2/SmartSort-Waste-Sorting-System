@@ -40,8 +40,8 @@ SmartSort is an Arduino UNO-based edge device designed to perform real-time bina
 
 | Front View | Top View |
 | :---: | :---: |
-| ![Front View](front-view.jpg) | ![Top View](top-view.jpg) |
+| ![Front View](front-view.jpeg) | ![Top View](top-view.jpeg) |
 
 | Side View | Back View |
 | :---: | :---: |
-| ![Side View](side-view.jpg) | ![Back View](back-view.jpg) |
+| ![Side View](side-view.jpeg) | ![Back View](back-view.jpeg) |
