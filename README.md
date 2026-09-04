@@ -35,3 +35,13 @@ SmartSort is an Arduino UNO-based edge device designed to perform real-time bina
    * **Moisture < 900:** Classified as **WET WASTE** $\rightarrow$ Servo swings to 160° (Left Bin).
    * **Moisture $\ge$ 900:** Classified as **DRY WASTE** $\rightarrow$ Servo swings to 20° (Right Bin).
 5. **Reset:** The flap holds for 4 seconds, returns to the 90° center position, and updates the local item counter.
+
+## System Hardware Views
+
+| Front View | Top View |
+| :---: | :---: |
+| ![Front View](front-view.jpg) | ![Top View](top-view.jpg) |
+
+| Side View | Back View |
+| :---: | :---: |
+| ![Side View](side-view.jpg) | ![Back View](back-view.jpg) |
