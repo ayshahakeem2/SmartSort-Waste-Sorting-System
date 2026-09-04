@@ -4,6 +4,16 @@ SmartSort is an Arduino UNO-based edge device designed to perform real-time bina
 
 ---
 
+## Overview
+
+Relying on human compliance for waste segregation frequently leads to cross-contamination, as a single liquid item can ruin an entire bin of recyclable paper and cardboard. SmartSort provides an affordable, standalone embedded solution that eliminates human error by automating segregation right at the point of disposal.
+
+Instead of requiring manual sorting, the system processes real-time sensor streams to classify waste into two actionable sorting streams:
+* **Wet Waste Stream:** Directs organic materials, food waste, and liquids to a sealed compartment to prevent leakage.
+* **Dry Waste Stream:** Isolates clean paper, cardboard, plastics, and metals to preserve their structural integrity for downstream recycling.
+
+---
+
 ## Repository Code Structure
 
 * **`SmartSort_Code.ino`**: The primary C++ firmware loaded onto the Arduino board that handles ultrasonic object detection, analog moisture sampling, dual-bin servo motor execution, and real-time counter updates.
