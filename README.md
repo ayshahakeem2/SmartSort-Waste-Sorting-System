@@ -45,3 +45,13 @@ SmartSort is an Arduino UNO-based edge device designed to perform real-time bina
 | Side View | Back View |
 | :---: | :---: |
 | ![Side View](side-view.jpeg) | ![Back View](back-view.jpeg) |
+
+## System Display Workflow
+
+| 1. Startup | 2. Ready State | 3. Object Detected |
+| :---: | :---: | :---: |
+| ![Welcome](lcd-welcome.jpeg) | ![Ready](lcd-idle.jpeg) | ![Detected](lcd-detected.jpeg) |
+
+| 4. Wet Waste Decision | 5. Dry Waste Decision | 6. Counter Summary |
+| :---: | :---: | :---: |
+| ![Wet Waste](lcd-wet-result.jpeg) | ![Dry Waste](lcd-dry-result.jpeg) | ![Counter Summary](lcd-counter.jpeg) |
